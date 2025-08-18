@@ -1,0 +1,12 @@
+
+/checkpoints/
+/__pycache__/
+/wandb/
+/figures/
+/results/
+
+*.pyc
+process_large_image.py
+run_models.sh
+test.py
+sweep.yaml
