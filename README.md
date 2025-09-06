@@ -6,6 +6,7 @@
 - Crack 이미지를 통해 Crack Segmentation Task를 수행하는 모델 개발
 - 다양한 유형의 두께, 형태의 Crack 존재
 - 모델 [SCSegamba](https://github.com/Karl1109/SCSegamba) 고정, input size 512x512 고정
+- [최종 보고서](https://github.com/syous154/Crack-Segmentation/blob/main/Crack%20Segmentation.pdf)
 
 ## 📄 Metrics
 - IoU
